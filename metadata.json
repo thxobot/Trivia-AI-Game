@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TrivAI Live",
+  "description": "A real-time voice-interactive trivia game host powered by Gemini Live API, Google Search Grounding, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
